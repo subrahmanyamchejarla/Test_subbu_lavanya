@@ -7,8 +7,8 @@ public class Hello_Git {
 
 		int a = 1, b = 2, c = 3;
 
-		a = a + b;
-		c = a + b;
+		a = a + c;
+		c = b + b;
 		System.out.println(c);
 	}
 
